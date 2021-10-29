@@ -1,4 +1,4 @@
-<kbd>![# YouGile to Discord notification](https://raw.githubusercontent.com/keshon/assets/main/yougile-to-discord-notification-demo.gif)</kbd>
+<kbd>![# YouGile to Discord notification](https://raw.githubusercontent.com/keshon/assets/main/yougile-to-discord-notification/demo.gif)</kbd>
 
 # YouGile to Discord notification
 Simple JS script to notify to Discord about YouGile tasks status
